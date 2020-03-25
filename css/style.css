@@ -2,10 +2,12 @@ body{
     background:rgb(238, 205, 156);
     margin-left: 100px;
     margin-right: 200px;
+    text-align: center;
 }
 
 header {
     margin-top: 70px;
+    text-align: center;
 }
 
 h1 { 
